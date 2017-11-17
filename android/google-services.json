@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "565438792775",
+    "firebase_url": "https://endlessmaze-23006.firebaseio.com",
+    "project_id": "endlessmaze-23006",
+    "storage_bucket": "endlessmaze-23006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565438792775:android:6621786248cfb69e",
+        "android_client_info": {
+          "package_name": "com.endlessmaze.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565438792775-ks2caedekdod1pvo3kkt57dbsjpljkkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.endlessmaze.game",
+            "certificate_hash": "997ed483bd992a5dbf2937d3dd6041eb1bcb23a4"
+          }
+        },
+        {
+          "client_id": "565438792775-nsbh3olaaqm7vcp78kqvcl2hrqu7ed3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI1zv239-dmvnVpKSUWJpi0Ot-Kwadc5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

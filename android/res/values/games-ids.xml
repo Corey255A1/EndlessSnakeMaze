@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">565438792775</string>
+    <string name="package_name">com.endlessmaze.game</string>
+    <string name="achievement_garter_snake">CgkIx4idtroQEAIQAQ</string>
+    <string name="achievement_rattle_snake">CgkIx4idtroQEAIQBg</string>
+    <string name="achievement_king_snake">CgkIx4idtroQEAIQAg</string>
+    <string name="achievement_cobra">CgkIx4idtroQEAIQAw</string>
+    <string name="achievement_green_anaconda">CgkIx4idtroQEAIQBA</string>
+    <string name="achievement_reticulated_python">CgkIx4idtroQEAIQBQ</string>
+    <string name="leaderboard_completed_level">CgkIx4idtroQEAIQBw</string>
+</resources>

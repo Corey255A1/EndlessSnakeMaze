@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EndlessMaze</string>
+    <!-- ca-app-pub-2475974199377952/3979264628 -->
+    <!-- Tests -->
+     <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+     <!--<string name="inter_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>-->
+     <!--<string name="reward_ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>-->
+
+    <!-- Real -->
+    <string name="banner_ad_unit_id">ca-app-pub-2475974199377952/5455997822</string>
+    <string name="inter_ad_unit_id">ca-app-pub-2475974199377952/5610443823</string>
+    <string name="reward_ad_unit_id">ca-app-pub-2475974199377952/7726305425</string>
+</resources>

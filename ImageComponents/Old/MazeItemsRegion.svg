@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="64"
+   viewBox="0 0 448.00001 64.000001"
+   id="svg3340"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="MazeItemsRegion.svg"
+   inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\MazeItemsRegion.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs3342">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6003"
+       id="radialGradient6009"
+       cx="280"
+       cy="812.36224"
+       fx="280"
+       fy="812.36224"
+       r="80"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.20640996,0,0,0.21090991,-38.039975,860.52339)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6003">
+      <stop
+         style="stop-color:#00b8ff;stop-opacity:1;"
+         offset="0"
+         id="stop6005" />
+      <stop
+         style="stop-color:#00b8ff;stop-opacity:0;"
+         offset="1"
+         id="stop6007" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6302"
+       id="radialGradient6308"
+       cx="400"
+       cy="652.36224"
+       fx="400"
+       fy="652.36224"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.15644444,0,0,0.15644448,225.42222,918.30368)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6302">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop6304" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0"
+         offset="1"
+         id="stop6306" />
+    </linearGradient>
+    <radialGradient
+       gradientTransform="matrix(0.08,0,0,0.08,320,968.17318)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5616"
+       id="radialGradient5622"
+       cx="400"
+       cy="652.36224"
+       fx="400"
+       fy="652.36224"
+       r="200"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5616">
+      <stop
+         style="stop-color:#0073ff;stop-opacity:1"
+         offset="0"
+         id="stop5618" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0"
+         offset="1"
+         id="stop5620" />
+    </linearGradient>
+    <radialGradient
+       gradientTransform="matrix(0.08,0,0,0.08,320,968.17318)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient6302-8"
+       id="radialGradient4156"
+       cx="400"
+       cy="652.36224"
+       fx="400"
+       fy="652.36224"
+       r="400"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient6302-8"
+       osb:paint="gradient">
+      <stop
+         id="stop4142"
+         offset="0"
+         style="stop-color:#ffff00;stop-opacity:1;" />
+      <stop
+         id="stop4144"
+         offset="1"
+         style="stop-color:#0000ff;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="191.66149"
+     inkscape:cy="47.250164"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     objecttolerance="20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3378" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3345">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36216)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5980"
+       sodipodi:sides="8"
+       sodipodi:cx="381.42856"
+       sodipodi:cy="719.50507"
+       sodipodi:r1="339.41125"
+       sodipodi:r2="169.70563"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.1780972"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 621.42856,959.50507 446.3721,876.29262 381.42856,1058.9163 316.48503,876.29262 141.42856,959.50507 224.64101,784.4486 42.017303,719.50507 224.641,654.56154 141.42856,479.50507 l 175.05646,83.21244 64.94354,-182.6237 64.94352,182.6237 175.05648,-83.21244 -83.21245,175.05646 182.6237,64.94353 -182.62369,64.94353 z"
+       transform="matrix(0.09407655,0,0,0.08692621,-3.9528427,955.79969)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\bomb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#e48600;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5978"
+       sodipodi:sides="8"
+       sodipodi:cx="281.42856"
+       sodipodi:cy="743.79077"
+       sodipodi:r1="325.57642"
+       sodipodi:r2="162.78821"
+       sodipodi:arg1="0.74194727"
+       sodipodi:arg2="1.1346463"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 521.42856,963.79077 350.19893,891.33953 295.57069,1069.0599 225.72383,896.7515 61.428555,983.79077 133.8798,812.56115 -43.840565,757.93291 128.46783,688.08604 41.428556,523.79077 l 171.229624,72.45124 54.62824,-177.72036 69.84687,172.3084 164.29527,-87.03928 -72.45124,171.22963 177.72036,54.62824 -172.3084,69.84686 z"
+       transform="matrix(0.06892528,-0.00121156,0.0012902,0.06472386,12.554128,971.17219)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\bomb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00e200;fill-opacity:1;stroke:#00b200;stroke-width:0.4118073;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4306-2-3-5"
+       width="24.916403"
+       height="5.0637903"
+       x="14.170732"
+       y="1031.8713"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\bomb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#00004b;fill-opacity:1;stroke:#000000;stroke-width:0.51323336;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4504"
+       cx="354.02002"
+       cy="959.22247"
+       rx="20.00276"
+       ry="19.286289"
+       transform="matrix(0.93557278,0.35313393,-0.32388825,0.94609534,0,0)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\bomb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.6283679;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5965"
+       width="4.9043384"
+       height="6.0008645"
+       x="351.35287"
+       y="933.90192"
+       transform="matrix(0.93557278,0.35313393,-0.32388825,0.94609534,0,0)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\bomb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5967"
+       d="m 27.646229,1009.2353 c 0.15729,-0.4077 0.28164,-0.8284 0.44051,-1.2353 0.14584,-0.3703 0.33214,-0.7188 0.53354,-1.0582 0.1743,-0.3083 0.36545,-0.6054 0.56671,-0.8949 0.27924,-0.3649 0.5824,-0.7093 0.88023,-1.0575 0.41783,-0.5212 0.86209,-1.0174 1.29189,-1.5275 0.28321,-0.3565 0.61943,-0.6573 0.94293,-0.9712 0.23128,-0.2529 0.50635,-0.4502 0.78422,-0.6412 0.24944,-0.1578 0.51775,-0.2787 0.78233,-0.4051 0.3663,-0.1746 0.72829,-0.359 1.0973,-0.5272 0.41611,-0.1904 0.85246,-0.3254 1.28641,-0.4626 0.79796,-0.2272 1.61959,-0.4351 2.449781,-0.4164 0.36768,0.026 0.72742,0.097 1.08382,0.192 0.34648,0.1015 0.68488,0.2304 1.02391,0.3559 0.33627,0.1275 0.67223,0.2559 1.00843,0.3835 0.34809,0.132 0.69628,0.2636 1.04484,0.3942 0.35243,0.1325 0.70416,0.2669 1.05618,0.4006 0.39019,0.1562 0.79264,0.28 1.17362,0.4601 0.30419,0.1521 0.6112,0.2977 0.92329,0.431 0.24929,0.1047 0.50222,0.1993 0.75457,0.2953 0.30384,0.1364 0.62231,0.2167 0.94211,0.2981 0.34361,0.1048 0.69473,0.1761 1.04159,0.268 0.34837,0.07 0.6947,0.1494 1.04846,0.1814 0.37253,0.078 0.74865,0.072 1.12623,0.083 0.32176,0.021 0.6436,0.032 0.9658,0.04 0.33401,-0.023 0.66964,-0.019 1.00276,-0.05 0.42749,-0.044 0.85637,-0.071 1.28369,-0.1162 0.0617,0 0.12359,-0.01 0.185,-0.014 0.43891,-0.054 -0.10153,0 0.29415,-0.048 0.11405,-0.013 0.22742,0 0.34173,-0.011 -0.10871,0.062 0.4551,-0.057 0.31602,-0.031 -2.3322,0.4288 -1.62264,0.3373 -1.10975,0.1834 0.28469,-0.077 0.54578,-0.2231 0.81703,-0.3398 0.3588,-0.1384 0.71272,-0.2885 1.05813,-0.4604 0.27752,-0.1376 0.5518,-0.2807 0.81152,-0.4528 0.235251,-0.1719 0.469661,-0.3432 0.721521,-0.4873 0.29878,-0.1324 0.58497,-0.289 0.86675,-0.457 0.29979,-0.1829 0.58183,-0.3952 0.86915,-0.5984 0.28272,-0.2099 0.54112,-0.4524 0.81694,-0.6715 0.19113,-0.1506 0.0964,-0.076 0.28423,-0.2231 0,0 1.48612,-0.10461 1.48612,-0.10461 l 0,0 c -0.19026,0.14461 -0.0947,0.07 -0.2865,0.22321 -0.28235,0.2114 -0.53679,0.4592 -0.81513,0.6766 -0.2859,0.2089 -0.57424,0.4143 -0.86763,0.6114 -0.28008,0.1674 -0.55488,0.3499 -0.86084,0.462 -0.2552,0.135 -0.49487,0.2912 -0.72399,0.471 -0.25529,0.188 -0.53114,0.3373 -0.81367,0.4751 -0.34573,0.1757 -0.697171,0.3386 -1.060721,0.4695 -0.15408,0.066 -0.32091,0.1222 -0.46958,0.201 -0.11079,0.059 -0.20621,0.1437 -0.33602,0.1583 -0.69767,0.1831 -1.40394,0.3875 -2.12688,0.3928 -0.26986,0.01 -0.53461,0.059 -0.80386,0.077 -0.42897,0.037 -0.85749,0.077 -1.28649,0.1137 -0.33705,0.018 -0.67442,0.037 -1.01199,0.037 -0.32048,-0.011 -0.64083,-0.023 -0.96101,-0.041 -0.37987,-0.01 -0.75695,-0.031 -1.13271,-0.095 -0.35409,-0.049 -0.70464,-0.1198 -1.05304,-0.2021 -0.3479,-0.09 -0.69902,-0.1652 -1.04416,-0.2667 -0.32304,-0.085 -0.63986,-0.1851 -0.95012,-0.3129 -0.25417,-0.096 -0.50869,-0.1923 -0.75777,-0.3024 -0.30697,-0.1391 -0.60861,-0.2904 -0.91301,-0.4355 -0.385,-0.1643 -0.78,-0.301 -1.17003,-0.4515 -0.35399,-0.1328 -0.70827,-0.2647 -1.06183,-0.3989 -0.34734,-0.1322 -0.69503,-0.2634 -1.04259,-0.395 -0.33711,-0.1276 -0.67415,-0.2554 -1.0117,-0.3816 -0.33535,-0.1257 -0.67186,-0.2502 -1.01751,-0.3414 -0.353071,-0.087 -0.711731,-0.1482 -1.075191,-0.156 -0.55885,0.011 -1.25286,0.2018 0.954191,-0.2388 0.053,-0.01 -0.10664,0.017 -0.159651,0.028 -0.16864,0.034 -0.17266,0.039 -0.34456,0.089 -0.43636,0.1252 -0.87113,0.2672 -1.29105,0.4438 -0.36871,0.1607 -0.72557,0.349 -1.08908,0.5222 -0.26005,0.1272 -0.52305,0.2482 -0.77805,0.3864 -0.28448,0.17 -0.55756,0.3689 -0.79272,0.609 -0.31739,0.3224 -0.67456,0.6016 -0.95879,0.9601 -0.43814,0.5023 -0.88313,0.9983 -1.29403,1.5257 -0.28481,0.3497 -0.57883,0.6911 -0.8627,1.0417 -0.19949,0.2879 -0.39716,0.5769 -0.56935,0.884 -0.19947,0.3337 -0.39412,0.6697 -0.53877,1.0348 -0.16996,0.3963 -0.29219,0.8135 -0.42715,1.224 0,0 -1.488,0.1982 -1.488,0.1982 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\bomb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5974"
+       sodipodi:sides="8"
+       sodipodi:cx="547.71429"
+       sodipodi:cy="680.36212"
+       sodipodi:r1="50.279934"
+       sodipodi:r2="25.139969"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.1780972"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 583.26758,715.9154 -25.93263,-12.32698 -9.62066,27.05364 -9.62064,-27.05364 -25.93264,12.32698 12.32698,-25.93263 -27.05363,-9.62065 27.05363,-9.62065 -12.32698,-25.93263 25.93263,12.32698 9.62065,-27.05363 9.62065,27.05363 25.93264,-12.32698 -12.32698,25.93263 27.05363,9.62065 -27.05363,9.62065 z"
+       inkscape:transform-center-x="0.52298147"
+       inkscape:transform-center-y="-0.54915916"
+       transform="matrix(0.08037549,0,0,0.0843965,15.935918,942.53439)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\bomb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:url(#radialGradient6009);fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5985"
+       ry="16.872791"
+       rx="16.512794"
+       cy="1031.8586"
+       cx="19.754808"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\bomb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#bbbbc3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28360376;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 64.141802,1018.9282 c 6.134431,-10.8243 13.775002,-15.4938 15.705572,-15.9514 2.45234,-1.5234 6.64986,4.1029 6.64986,4.1029 l 7.950671,-4.9729 c 0,0 -2.79303,-4.94164 -1.56686,-5.70343 1.22618,-0.76168 3.97654,-3.46591 8.143815,-3.16292 l 11.61725,0.84428 c 0,0 -8.66608,-4.45609 -12.780944,-5.17977 -4.114881,-0.72378 -7.398501,-0.32389 -10.682111,0.076 -3.283621,0.39989 -11.879322,5.73926 -11.879322,5.73926 -5.31223,3.64371 -12.807491,16.38878 -13.157931,24.20818 z"
+       id="path4780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsscsscc"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\pick.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#a59337;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.45956743;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4782"
+       width="9.2043056"
+       height="55.931198"
+       x="-531.1355"
+       y="904.14355"
+       transform="matrix(0.84945691,-0.52765799,0.59477265,0.80389396,0,0)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\pick.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#fff000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.84225714;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 179.67021,989.27109 -25.54181,27.51481 a 9.8865955,6.6239668 45.13395 0 0 -6.98423,1.2085 9.8865955,6.6239668 45.13395 0 0 -0.44985,6.8 l -3.81258,4.1071 a 8.6208882,8.6904633 22.18253 0 0 -0.0191,-0.019 8.6208882,8.6904633 22.18253 0 0 -12.19267,0.6393 8.6208882,8.6904633 22.18253 0 0 0.56693,12.2594 8.6208882,8.6904633 22.18253 0 0 0.34625,0.2937 5.2964436,5.3391889 22.182463 0 0 0.48232,7.3717 5.2964436,5.3391889 22.182463 0 0 7.41591,-0.3175 8.6208882,8.6904633 22.18253 0 0 0.57961,0.5836 8.6208882,8.6904633 22.18253 0 0 12.19284,-0.6392 8.6208882,8.6904633 22.18253 0 0 -0.56708,-12.2594 8.6208882,8.6904633 22.18253 0 0 -0.0458,-0.037 l 3.72107,-4.0085 a 9.8865955,6.6239668 45.13395 0 0 6.32324,-1.4102 9.8865955,6.6239668 45.13395 0 0 0.68788,-6.1427 l 10.36548,-11.1663 6.32327,6.2235 3.17761,-3.5692 -1.26232,-1.2426 2.99461,-3.3637 -1.95582,-1.9249 3.04318,-3.418 3.18279,3.1324 3.17762,-3.5692 -6.01127,-5.9164 2.30095,-2.47876 -8.03896,-8.65115 z"
+       id="rect4148"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\key.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="fill:#00fbff;fill-opacity:1;fill-rule:evenodd;stroke:#000098;stroke-width:3.79517674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 200.80391,995.43301 c 0,0 6.44415,10.79429 10.9995,10.79429 4.77757,0 12.4439,-8.88944 12.4439,-8.88944 0,0 7.66632,8.99524 12.33277,8.88944 4.66647,-0.1063 10.44399,-10.90017 10.44399,-10.90017 0,0 1.99991,27.09157 -2.53698,36.05417 -3.54947,7.0121 -18.79542,19.187 -20.23978,19.187 -1.6666,0 -14.83448,-9.3197 -20.33451,-19.5089 -4.66438,-8.6407 -3.10889,-35.62639 -3.10889,-35.62639 z"
+       id="path5243"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscsssc" />
+    <circle
+       style="fill:url(#radialGradient6308);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path6300"
+       cx="288"
+       cy="1020.3622"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       r="32" />
+    <circle
+       style="fill:url(#radialGradient4156);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path6300-0"
+       cx="352"
+       cy="1020.3622"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       r="32" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient5622);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path6300-3"
+       cx="352"
+       cy="1020.3622"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       r="16" />
+    <path
+       style="fill:#b4ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.08372355;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 384.88419,1001.8854 9.72371,-12.48141 42.78433,0 9.72373,12.48141 -31.11589,49.9257 z"
+       id="path3353"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#b4ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.08372355;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 394.62525,989.37219 -9.7237,12.48141 19.44743,0 -9.72373,-12.48141"
+       id="path4209"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#b4ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.08372355;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 437.36916,989.37269 -9.72373,12.48151 19.44744,0 -9.72371,-12.48151"
+       id="path4209-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#b4ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.08372355;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 404.33162,1001.8854 11.66845,49.9257 11.66845,-49.9257"
+       id="path4234"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#b4ffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.08372355;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 415.96535,989.37219 -11.66847,12.48141 23.33691,0 z"
+       id="path4232"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

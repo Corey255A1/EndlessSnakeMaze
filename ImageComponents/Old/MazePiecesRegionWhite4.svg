@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="384"
+   height="64"
+   viewBox="0 0 384.00001 64.000001"
+   id="svg3340"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="MazePiecesRegionWhite4.svg"
+   inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\MazePiecesRegion.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3342">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4142"
+       id="radialGradient4148"
+       cx="400"
+       cy="652.36224"
+       fx="400"
+       fy="652.36224"
+       r="400"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.08,0,0,0.07999999,256.00001,968.17313)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4142">
+      <stop
+         style="stop-color:#ff7f0f;stop-opacity:1;"
+         offset="0"
+         id="stop4144" />
+      <stop
+         style="stop-color:#ff7f0f;stop-opacity:0;"
+         offset="1"
+         id="stop4146" />
+    </linearGradient>
+    <radialGradient
+       gradientTransform="matrix(0.08,0,0,0.07999999,320,968.17313)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4146"
+       id="radialGradient4152"
+       cx="400"
+       cy="652.36224"
+       fx="400"
+       fy="652.36224"
+       r="400"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4146">
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="0"
+         id="stop4148" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:0;"
+         offset="1"
+         id="stop4150" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="164.47933"
+     inkscape:cy="67.704905"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     objecttolerance="20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3378" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3345">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36216)">
+    <rect
+       style="opacity:1;fill:#a52c00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-8"
+       width="64"
+       height="63.999996"
+       x="256"
+       y="988.36218"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\finish.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient4148);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4138"
+       cx="288"
+       cy="1020.3622"
+       rx="32"
+       ry="31.999998"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\finish.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4140-33"
+       width="16"
+       height="15.999999"
+       x="256"
+       y="988.36218"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\finish.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4140"
+       sodipodi:sides="5"
+       sodipodi:cx="414.61606"
+       sodipodi:cy="687.18097"
+       sodipodi:r1="425.20584"
+       sodipodi:r2="212.60292"
+       sodipodi:arg1="0.85196633"
+       sodipodi:arg2="1.4802849"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 694.61606,1007.181 433.83279,898.91363 196.80273,1052.3622 219.18463,770.88616 1.1115607e-5,592.8754 274.61606,527.18096 376.18258,263.71565 523.52273,504.59034 805.47891,519.77058 621.92408,734.33376 Z"
+       inkscape:transform-center-x="0.38529437"
+       inkscape:transform-center-y="-3.9602571"
+       transform="matrix(0.011549,0.04152255,-0.04240878,0.0117955,313.13947,994.35263)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\finish.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4140-5-6"
+       width="16"
+       height="16"
+       x="988.36218"
+       y="-320"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\finish.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4140-4-8"
+       width="16"
+       height="16"
+       x="-320"
+       y="-1052.3622"
+       transform="scale(-1,-1)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\finish.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4140-5-7-7"
+       width="15.999999"
+       height="16"
+       x="-1052.3622"
+       y="256"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\finish.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#0064c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4138-5"
+       width="64"
+       height="63.999996"
+       x="320"
+       y="988.36218"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\start.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient4152);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4136"
+       cx="352"
+       cy="1020.3622"
+       rx="32"
+       ry="31.999998"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\start.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4140-78"
+       width="16"
+       height="15.999999"
+       x="320"
+       y="988.36218"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\start.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4140-5-73"
+       width="15.999999"
+       height="16"
+       x="988.36218"
+       y="-384"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\start.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4140-4-6"
+       width="16"
+       height="15.999999"
+       x="-384"
+       y="-1052.3622"
+       transform="scale(-1,-1)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\start.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4140-5-7-8"
+       width="15.999999"
+       height="16"
+       x="-1052.3622"
+       y="320"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\start.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.55964661px;line-height:125%;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#00ff00;stroke-width:0.56800002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="288.01715"
+       y="1201.6775"
+       id="text4154"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1583578,0.86329111)"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\start.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180"><tspan
+         sodipodi:role="line"
+         id="tspan4156"
+         x="288.01715"
+         y="1201.6775"
+         style="stroke-width:0.56800002">S</tspan></text>
+    <rect
+       style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3342"
+       width="64"
+       height="64"
+       x="0"
+       y="988.36218"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\Pieces\cross.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3370"
+       width="32"
+       height="64"
+       x="15.999999"
+       y="988.36218"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\Pieces\cross.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3370-0"
+       width="64"
+       height="32"
+       x="0"
+       y="1004.3621"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\Pieces\cross.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3342-2"
+       width="64"
+       height="64"
+       x="64"
+       y="988.36218"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\turn.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3370-4"
+       width="32"
+       height="48"
+       x="80"
+       y="1004.3621"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\turn.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3370-0-3"
+       width="48"
+       height="32"
+       x="64"
+       y="1004.3621"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\turn.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3342-7"
+       width="64"
+       height="64"
+       x="128"
+       y="988.36218"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\t.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3370-3"
+       width="32"
+       height="48"
+       x="144"
+       y="1004.3621"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\t.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3370-0-2"
+       width="64"
+       height="32"
+       x="128"
+       y="1004.3621"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\t.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3342-8"
+       width="64"
+       height="63.999935"
+       x="192"
+       y="988.36224"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\straight.png"
+       inkscape:export-xdpi="180.00002"
+       inkscape:export-ydpi="180.00002" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3370-02"
+       width="32"
+       height="63.999935"
+       x="208"
+       y="988.36218"
+       inkscape:export-filename="D:\Documents\CodeProjects\EndlessMaze\ImageComponents\Old\pieces\straight.png"
+       inkscape:export-xdpi="180.00002"
+       inkscape:export-ydpi="180.00002" />
+  </g>
+</svg>
